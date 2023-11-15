@@ -5,9 +5,7 @@ import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
 
-${'' /* *{
-    outline: 1px solid red !important;
-}  */}
+${'' }
 
 html.has-scroll-smooth {
     overflow: hidden;
